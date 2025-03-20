@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/app-views/systems/setting/index.js"],"names":["Setting","_jsx","children"],"mappings":"qHAQeA,UARCA,IAERC,cAAA,OAAAC,SAAK,W","file":"static/js/38.874c6949.chunk.js","sourcesContent":["const Setting = () => {\n    return (\n        <div> \n            Setting\n        </div>\n    )\n}\n\nexport default Setting"],"sourceRoot":""}

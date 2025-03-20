@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/app-views/main/offline-points/geozone/index.js"],"names":["Geozone","_jsx","children"],"mappings":"qHAQeA,UARCA,IAERC,cAAA,OAAAC,SAAK,W","file":"static/js/30.048d8a80.chunk.js","sourcesContent":["const Geozone = () => {\n    return (\n        <div>\n            Geozone\n        </div>\n    )\n}\n\nexport default Geozone"],"sourceRoot":""}

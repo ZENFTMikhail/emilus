@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/app-views/main/banners/index.js"],"names":["Banners","_jsx","children"],"mappings":"qHAQeA,UARCA,IAERC,cAAA,OAAAC,SAAK,Y","file":"static/js/16.6ea19e56.chunk.js","sourcesContent":["const Banners = () => {\n    return (\n        <div>\n            Bannerss\n        </div>\n    )\n}\n\nexport default Banners"],"sourceRoot":""}

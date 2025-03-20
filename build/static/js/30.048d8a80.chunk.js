@@ -1,0 +1,2 @@
+(this.webpackJsonpemilus=this.webpackJsonpemilus||[]).push([[30],{550:function(e,s,i){"use strict";i.r(s);var t=i(5);s.default=()=>Object(t.jsx)("div",{children:"Geozone"})}}]);
+//# sourceMappingURL=30.048d8a80.chunk.js.map
