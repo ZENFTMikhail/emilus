@@ -1,1 +1,0 @@
-{"version":3,"sources":["views/app-views/systems/mobile-apps/index.js"],"names":["MobileApps","_jsx","children"],"mappings":"qHAOeA,UAPIA,IAEXC,cAAA,OAAAC,SAAK,c","file":"static/js/37.7ebab6d9.chunk.js","sourcesContent":["const MobileApps = () => {\n    return (\n        <div>\n            MobileApps\n        </div>\n    )\n}\nexport default MobileApps"],"sourceRoot":""}

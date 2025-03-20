@@ -1,1 +1,0 @@
-{"version":3,"sources":["views/app-views/main/mailings/index.js"],"names":["Mailings","_jsx","children"],"mappings":"qHAQeA,UAREA,IAETC,cAAA,OAAAC,SAAK,Y","file":"static/js/28.c9604da8.chunk.js","sourcesContent":["const Mailings = () => {\n    return (\n        <div>\n            Mailings\n        </div>\n    )\n}\n\nexport default Mailings"],"sourceRoot":""}

@@ -1,1 +1,0 @@
-{"version":3,"sources":["views/app-views/systems/logs/index.js"],"names":["Logs","_jsx","children"],"mappings":"qHAQeA,UARFA,IAELC,cAAA,OAAAC,SAAK,Q","file":"static/js/36.77b8539a.chunk.js","sourcesContent":["const Logs = () => {\n    return (\n        <div>\n            Logs\n        </div>\n    )\n}\n\nexport default Logs"],"sourceRoot":""}

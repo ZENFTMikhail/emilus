@@ -1,1 +1,0 @@
-{"version":3,"sources":["views/app-views/main/promocods/index.js"],"names":["Promocods","_jsx","children"],"mappings":"qHAQeA,UARGA,IAEVC,cAAA,OAAAC,SAAK,a","file":"static/js/33.da87ef72.chunk.js","sourcesContent":["const Promocods = () => {\n    return (\n        <div>\n            Promocods\n        </div>\n    )\n}\n\nexport default Promocods"],"sourceRoot":""}

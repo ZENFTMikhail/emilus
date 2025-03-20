@@ -1,1 +1,0 @@
-{"version":3,"sources":["views/app-views/main/offline-points/address/index.js"],"names":["Address","_jsx","children"],"mappings":"qHAQeA,UARCA,IAERC,cAAA,OAAAC,SAAK,W","file":"static/js/29.919ee9ac.chunk.js","sourcesContent":["const Address = () => {\n    return (\n        <div>\n            Address\n        </div>\n    )\n}\n\nexport default Address"],"sourceRoot":""}
